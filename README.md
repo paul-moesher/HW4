@@ -1,2 +1,2 @@
 # JS-Volume-Iterator
-Loop that iterators those volume.
+Loop that iterators though volume values.
